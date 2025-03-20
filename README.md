@@ -8,5 +8,7 @@ Modules on the public Terraform Registry can be sourced using a registry source 
 with each module's information page on the registry site including the exact address to use.
 
  1: Consuming Modules from the Terraform Module Registry
+ 
  2: Exploring other modules from the Terraform Module Registry
+ 
  3: Publishing to the Terraform Public Module Registry
